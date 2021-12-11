@@ -1,0 +1,38 @@
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  &:hover {
+    .image-metadata {
+      .hidden-icons {
+        transition: 0.2s ease-in;
+        opacity: 100%;
+      }
+    }
+  }
+  &.dragging {
+    opacity: 0;
+  }
+  .image {
+    height: 218px;
+    width: 218px;
+  }
+  .image-metadata {
+    display: flex;
+    justify-content: space-between;
+    .icon {
+      height: 16px;
+      width: 16px;
+      color: gray;
+      &:hover {
+        cursor: pointer;
+        color: black;
+      }
+    }
+    .hidden-icons {
+      opacity: 0%;
+    }
+
+  }
+}
