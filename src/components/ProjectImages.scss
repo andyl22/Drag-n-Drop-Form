@@ -1,7 +1,10 @@
 .project-images {
   .images-container {
     display: flex;
-    gap: 10px;
     flex-wrap: wrap;
+    padding-top: 15px;
+  }
+  .dragging {
+    opacity: 0;
   }
 }

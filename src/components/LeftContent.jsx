@@ -9,7 +9,7 @@ export default function LeftContent() {
 
   useEffect(() => {
     document.addEventListener("click", (e) => {
-      if(inputRef.current.contains(e.target)) {
+      if(inputRef.current && inputRef.current.contains(e.target)) {
         setActive(true);
       } else {
         setActive(false);
