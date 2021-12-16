@@ -1,2 +1,2 @@
-# React Time line App
+# React Drag n Drop
 Pair Programming Exercise
