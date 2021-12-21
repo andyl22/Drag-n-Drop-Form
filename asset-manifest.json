@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/drag-and-drop/static/css/main.232298cf.chunk.css",
-    "main.js": "/drag-and-drop/static/js/main.947cfb16.chunk.js",
-    "main.js.map": "/drag-and-drop/static/js/main.947cfb16.chunk.js.map",
-    "runtime-main.js": "/drag-and-drop/static/js/runtime-main.6e3e0f91.js",
-    "runtime-main.js.map": "/drag-and-drop/static/js/runtime-main.6e3e0f91.js.map",
-    "static/js/2.51bd07cc.chunk.js": "/drag-and-drop/static/js/2.51bd07cc.chunk.js",
-    "static/js/2.51bd07cc.chunk.js.map": "/drag-and-drop/static/js/2.51bd07cc.chunk.js.map",
-    "index.html": "/drag-and-drop/index.html",
-    "static/css/main.232298cf.chunk.css.map": "/drag-and-drop/static/css/main.232298cf.chunk.css.map",
-    "static/js/2.51bd07cc.chunk.js.LICENSE.txt": "/drag-and-drop/static/js/2.51bd07cc.chunk.js.LICENSE.txt",
-    "static/media/Batman.b8647789.jpg": "/drag-and-drop/static/media/Batman.b8647789.jpg",
-    "static/media/HalloweenCat.88804890.jpg": "/drag-and-drop/static/media/HalloweenCat.88804890.jpg",
-    "static/media/Snowman.e71c9c67.png": "/drag-and-drop/static/media/Snowman.e71c9c67.png",
-    "static/media/Spiderman.f874f787.png": "/drag-and-drop/static/media/Spiderman.f874f787.png"
+    "main.css": "/Drag-n-Drop-Form/static/css/main.232298cf.chunk.css",
+    "main.js": "/Drag-n-Drop-Form/static/js/main.947cfb16.chunk.js",
+    "main.js.map": "/Drag-n-Drop-Form/static/js/main.947cfb16.chunk.js.map",
+    "runtime-main.js": "/Drag-n-Drop-Form/static/js/runtime-main.0305ef63.js",
+    "runtime-main.js.map": "/Drag-n-Drop-Form/static/js/runtime-main.0305ef63.js.map",
+    "static/js/2.51bd07cc.chunk.js": "/Drag-n-Drop-Form/static/js/2.51bd07cc.chunk.js",
+    "static/js/2.51bd07cc.chunk.js.map": "/Drag-n-Drop-Form/static/js/2.51bd07cc.chunk.js.map",
+    "index.html": "/Drag-n-Drop-Form/index.html",
+    "static/css/main.232298cf.chunk.css.map": "/Drag-n-Drop-Form/static/css/main.232298cf.chunk.css.map",
+    "static/js/2.51bd07cc.chunk.js.LICENSE.txt": "/Drag-n-Drop-Form/static/js/2.51bd07cc.chunk.js.LICENSE.txt",
+    "static/media/Batman.b8647789.jpg": "/Drag-n-Drop-Form/static/media/Batman.b8647789.jpg",
+    "static/media/HalloweenCat.88804890.jpg": "/Drag-n-Drop-Form/static/media/HalloweenCat.88804890.jpg",
+    "static/media/Snowman.e71c9c67.png": "/Drag-n-Drop-Form/static/media/Snowman.e71c9c67.png",
+    "static/media/Spiderman.f874f787.png": "/Drag-n-Drop-Form/static/media/Spiderman.f874f787.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e3e0f91.js",
+    "static/js/runtime-main.0305ef63.js",
     "static/js/2.51bd07cc.chunk.js",
     "static/css/main.232298cf.chunk.css",
     "static/js/main.947cfb16.chunk.js"
