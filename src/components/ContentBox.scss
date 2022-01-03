@@ -1,9 +1,11 @@
 .content-box {
+  display: flex;
+  flex-direction: column;
   max-width: 838px;
   background: white;
   inset: 78px 12px 12px;
   position: fixed;
   margin: 0 auto;
-  border-radius: 6px;
+  border-radius: .5em;
   box-shadow: 0 0 0 2px rgb(0 0 0 / 10%);
 }

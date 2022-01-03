@@ -1,6 +1,6 @@
 .header {
   display: flex;
-  flex: 1 1 auto;
+  flex: 0 1 auto;
   height: 48px;
   align-items: center;
   .left-header {
@@ -16,6 +16,7 @@
     background-color: hsl(0,0%,95%);
     padding-left: 1rem;
     padding-right: 1rem;
+    border-top-right-radius: .5em;
     .inner-right {
       font-weight: 500;
       display: flex;
